@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Dark Mode</title>
+    <!--Loading Bootstrap5 CSS-->
+        <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+        <style>
+            .animation1{
+                animation-delay: 0.1s !important;
+            }
+            .animation2{
+                animation-delay: 0.2s !important;
+            }
+        </style>
+    </head>
+    <body>
+    <!--Loading-->
+        <section id="Loading">
+            <section class="w-100 vh-100 bg-dark position-relative opacity-75"></section>
+            <section class="position-fixed rounded-3 w-50 h-50 align-middle top-50 start-50 translate-middle bg-gradient shadow bg-dark text-white">
+                <div class="d-flex align-items-center justify-content-center h-100">
+                    <div class="d-block text-center rounded-2 p-3">
+                        <div class="d-block">
+                            <div class="spinner-grow text-danger mx-auto spinner-grow-sm my-2 animation1"></div>
+                            <div class="spinner-grow mx-auto my-2"></div>
+                            <div class="spinner-grow text-success mx-auto spinner-grow-sm my-2 animation2"></div>
+                        </div>
+                        <strong class="d-block">Loading ... </strong>
+                        <span class="small">- Please be patient until the site is fully loaded -</span>
+                    </div>
+                </div>
+            </section>
+        </section>
+    <!--End Loading -->
+    <!--Info-->
+        <section>
+
+        </section>
+    <!--End Info-->
+    <!--Loading Boostrap5 JS-->
+        <link rel="stylesheet" href="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js">
+    <!--If you need to fade out loading until the page is fully loaded, use the following command :-->
+    <!--اگر می خواهید بارگذاری را تا زمانی که صفحه به طور کامل بارگیری شود محو کنید، از دستور زیر استفاده کنید:-->
+    <!--    <script src="node_modules/jquery/dist/jquery.min.js"></script>-->
+    <!--    <script>-->
+    <!--      $(document).ready(function () {-->
+    <!--        $("#Loading").fadeOut();-->
+    <!--      });-->
+    <!--    </script>-->
+    </body>
+</html>

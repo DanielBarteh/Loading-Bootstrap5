@@ -15,8 +15,8 @@
 * Dark Mode + Light Mode
 
 <p style="text-align: center">
-    <a href=""><img src="images/DarkMode.png" width="400" alt="Dark Mode"></a>
-    <a href=""><img src="images/LightMode.png" width="400" alt="Light Mode"></a>
+    <a href="images/DarkMode.png"><img src="images/DarkMode.png" width="400" alt="Dark Mode"></a>
+    <a href="images/LightMode.png"><img src="images/LightMode.png" width="400" alt="Light Mode"></a>
 </p>
 
 

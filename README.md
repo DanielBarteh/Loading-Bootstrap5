@@ -5,14 +5,21 @@
 <p style=";justify-content: space-around;display: flex;align-content: center;justify-items: center">
 <a href="https://dabram.ir" style="margin-right: 10px;margin-left: 10px;color: white;text-shadow: 0 0 20px white">Home</a>
 <a href="https://dabram.ir/product" style="margin-right: 10px;margin-left: 10px;color: orangered;text-shadow: 0 0 20px white">product</a>
-<a href="https://dabram.ir/Work samples" style="margin-right: 10px;margin-left: 10px;color: white;text-shadow: 0 0 20px white">WorkSamples</a>
-<a href="https://dabram.ir/Policy" style="margin-right: 10px;margin-left: 10px;color: orangered;text-shadow: 0 0 20px white">Policy</a>
+<a href="https://dabram.ir/workSamples" style="margin-right: 10px;margin-left: 10px;color: white;text-shadow: 0 0 20px white">WorkSamples</a>
+<a href="https://dabram.ir/policy" style="margin-right: 10px;margin-left: 10px;color: orangered;text-shadow: 0 0 20px white">Policy</a>
 </p>
 <hr style="width: 50%;margin: 10px auto">
 
 
-**Version 1.0.0.1 is Available :**
+**Version 2.0.0.0 is Available :**
 * Dark Mode + Light Mode
+
+<p style="text-align: center">
+    <a href=""><img src="images/DarkMode.png" width="400" alt="Dark Mode"></a>
+    <a href=""><img src="images/LightMode.png" width="400" alt="Light Mode"></a>
+</p>
+
+
 
 ## About This Project (Loading-Bootstrap5)
 * This project made with Boostrap5 and Jquery.

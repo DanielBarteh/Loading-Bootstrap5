@@ -10,5 +10,41 @@
 </p>
 <hr style="width: 50%;margin: 10px auto">
 
-## About This Project
-This is full project and 
+
+**Version 1.0.0.1 is Available :**
+* Dark Mode + Light Mode
+
+## About This Project (Loading-Bootstrap5)
+* This project made with Boostrap5 and Jquery.
+* Bootstrap5 is in node_modules folders.
+* Jquery is in node_modules folders.
+
+## Extra Help
+**You can enter your codes in the section:**
+```
+    <!--Info-->
+        <section>
+            -CODING HERE-
+        </section>
+    <!--End Info-->
+```
+**Spinners have animation delay. If you don't like delay, disable or delete them (line 8 to 15):**
+```
+        <style>
+            .animation1{
+                animation-delay: 0.1s !important;
+            }
+            .animation2{
+                animation-delay: 0.2s !important;
+            }
+        </style>
+```
+**If you want this that loading fade out after load the page, uncomment line 45 to 50 or use the following command:**
+```
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
+        <script>
+          $(document).ready(function () {
+            $("#Loading").fadeOut();
+          });
+        </script>
+```

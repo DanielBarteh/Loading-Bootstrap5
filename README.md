@@ -1,14 +1,17 @@
-<p style="text-align: center;margin-bottom: -50px">
-    <a href="https://dabram.ir/" target="_blank"><img src="https://dabram.ir/file/image/Dabram.png" width="400" alt="Dabram Logo"></a>
+<p align="center">
+<a href="https://dabram.ir/resume" target="_blank"><img style="border-radius: 10px" src="https://dabram.ir/file/image/rezome/perseneli.jpg" height="100" alt="Daniel Barteh"></a>
+<br>
+<b>Daniel Barteh</b>
+<br>
+- Programmer, designer, composer and editor -
+<br>
+<a href="https://dabram.ir/resume">Full Resume</a>
+&nbsp;&nbsp;
+<a href="https://github.com/DanielBarteh">GitHub</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/DanielBarteh">LinkedIn</a>
 </p>
-
-<p style=";justify-content: space-around;display: flex;align-content: center;justify-items: center">
-<a href="https://dabram.ir" style="margin-right: 10px;margin-left: 10px;color: white;text-shadow: 0 0 20px white">Home</a>
-<a href="https://dabram.ir/product" style="margin-right: 10px;margin-left: 10px;color: orangered;text-shadow: 0 0 20px white">product</a>
-<a href="https://dabram.ir/workSamples" style="margin-right: 10px;margin-left: 10px;color: white;text-shadow: 0 0 20px white">WorkSamples</a>
-<a href="https://dabram.ir/policy" style="margin-right: 10px;margin-left: 10px;color: orangered;text-shadow: 0 0 20px white">Policy</a>
-</p>
-<hr style="width: 50%;margin: 10px auto">
+<hr>
 
 
 **Version 2.0.0.0 is Available :**

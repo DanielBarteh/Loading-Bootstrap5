@@ -17,11 +17,10 @@
 **Version 2.0.0.0 is Available :**
 * Dark Mode + Light Mode
 
-<p style="text-align: center">
-    ![Dark Mode](https://github.com/DanielBarteh/Loading-BootStrap5/blob/main/images/DarkMode.gif)
-    ![Light Mode](https://github.com/DanielBarteh/Loading-BootStrap5/blob/main/images/LightMode.gif)
-</p>
-
+DarkMode (Live Demo):
+![Dark Mode](images/DarkMode.gif)
+Light Mode (Live Demo):
+![Light Mode](images/LightMode.gif)
 
 
 ## About This Project (Loading-Bootstrap5)

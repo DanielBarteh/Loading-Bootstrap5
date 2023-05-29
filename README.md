@@ -18,12 +18,8 @@
 * Dark Mode + Light Mode
 
 <p style="text-align: center">
-    <a href="images/DarkMode.gif">
-        ![](images/DarkMode.gif)
-    </a>
-    <a href="images/LightMode.gif">
-        ![](images/LightMode.gif)
-    </a>
+    ![Dark Mode](https://github.com/DanielBarteh/Loading-BootStrap5/blob/main/images/DarkMode.gif)
+    ![Light Mode](https://github.com/DanielBarteh/Loading-BootStrap5/blob/main/images/LightMode.gif)
 </p>
 
 

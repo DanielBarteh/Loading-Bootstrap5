@@ -14,8 +14,11 @@
 <hr>
 
 
-**Version 2.0.0.0 is Available :**
+## Version 2.5.1.0 is Available :
 * Dark Mode + Light Mode
+* Live Demo
+* Add JQuery (To Remove Loading After Load Page)
+
 
 DarkMode (Live Demo):
 ![Dark Mode](images/DarkMode.gif)

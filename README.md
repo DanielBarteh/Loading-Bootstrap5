@@ -18,8 +18,12 @@
 * Dark Mode + Light Mode
 
 <p style="text-align: center">
-    <a href="images/DarkMode.gif"><img src="images/DarkMode.gif" width="400" alt="Dark Mode"></a>
-    <a href="images/LightMode.gif"><img src="images/LightMode.gif" width="400" alt="Light Mode"></a>
+    <a href="images/DarkMode.gif">
+        ![](images/DarkMode.gif)
+    </a>
+    <a href="images/LightMode.gif">
+        ![](images/LightMode.gif)
+    </a>
 </p>
 
 
